@@ -1,5 +1,5 @@
 <h1>Bonjour et bienvenue sur mon Portfolio</h1>
-		<h2>Je vous présente ici mes réalisations que ça soit dans le cadre de ma formation à l'ESILV ou en dehors</h2>
+		<h2>Je vous présente ici mes réalisations que ça soit dans le cadre de ma formation à l'ESILV et en dehors</h2>
 		<ul>
 			<li><h3>Puissance 6 et IA</h3>
 				<p>Projet d'équipe en 3ème année à l'ESILV consistant à dévelloper en 2 semaines environ une Intelligence Artificielle capable de jouer au Puissance 6 en vue d'un tournoi.
