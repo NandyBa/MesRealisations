@@ -11,7 +11,7 @@
 					</ul>
 				</p>
 			</li>
-			<li><h3>Projet Python (<a href="https://github.com/ProjetPython-ESILV-A3-A/ProjetPython">consulter le github</a>)</h3>
+			<li><h3>Projet Python</h3>
 				<p>Projet dans le cadre du module python de 3ème année à l'ESILV</p>
 				<p>Le but été de permettre à une commune de gérer les commandes alimentaires de ses administrés dans le cas d'un confinement total (confinement hypothétique où la population n'aurait pas le droit de sortir du tout) .</p>
 					<h4>Compétences développées</h4>
@@ -23,8 +23,9 @@
 						<li>SQL</li>
 					</ul>
 				</p>
+				<a href="https://github.com/ProjetPython-ESILV-A3-A/ProjetPython">consulter le github</a>
 			</li>
-			<li><h3>Bot Messenger sur le thème du cinéma (<a href="https://github.com/NandyBa/ConnectedCustomLamp">consulter le projet</a>)</h3>
+			<li><h3>Bot Messenger sur le thème du cinéma</h3>
 				<p>Création d'un bot Messenger sur le thème du cinéma. Un bot est capable de comprendre des demandes simples de l'utilisateur et d'y répondre.
 					Par exemple il est capable de répondre à ces requêtes:
 					<ul class="tiret">
@@ -48,5 +49,6 @@
 						<li>Prise en main des API de Google Home et Amazon Alexa</li>
 					</ul>
 				</p>
+				<a href="https://github.com/NandyBa/ConnectedCustomLamp">consulter le projet</a>
 			</li>
 		</ul>
