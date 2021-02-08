@@ -11,7 +11,7 @@
 					</ul>
 				</p>
 			</li>
-			<li><h3>Projet Python</h3>
+			<li><h3>Projet Python (<a href="https://github.com/ProjetPython-ESILV-A3-A/ProjetPython">consulter le github</a>)</h3>
 				<p>Projet dans le cadre du module python de 3ème année à l'ESILV</p>
 				<p>Le but été de permettre à une commune de gérer les commandes alimentaires de ses administrés dans le cas d'un confinement total (confinement hypothétique où la population n'aurait pas le droit de sortir du tout) .</p>
 					<h4>Compétences développées</h4>
