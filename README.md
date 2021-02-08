@@ -24,7 +24,7 @@
 					</ul>
 				</p>
 			</li>
-			<li><h3>Bot Messenger sur le thème du cinéma</h3>
+			<li><h3>Bot Messenger sur le thème du cinéma (<a href="https://github.com/NandyBa/ConnectedCustomLamp">consulter le projet</a>)</h3>
 				<p>Création d'un bot Messenger sur le thème du cinéma. Un bot est capable de comprendre des demandes simples de l'utilisateur et d'y répondre.
 					Par exemple il est capable de répondre à ces requêtes:
 					<ul class="tiret">
